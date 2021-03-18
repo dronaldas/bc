@@ -478,7 +478,8 @@ footer .row .col-2 {
   .iphone {display: none;
   }
   .headerBackground { 
-      background-size: 812px;
+    background-size: cover;
+    background-position: center;
   }
   .mazas {
       padding-top: 100px;
